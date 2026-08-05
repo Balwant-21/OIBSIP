@@ -46,3 +46,13 @@ COVID-19 on unemployment rates.
 1. Clone this repository
 2. Install requirements: `pip install pandas matplotlib seaborn`
 3. Open `Balwantsingh_Task2.ipynb` in Jupyter Notebook and run all cells
+
+
+## 👨‍💻 Author
+
+**Balwant Singh**
+
+B.Tech CSE (AI & ML)
+
+Oasis Infobyte Internship Project
+
