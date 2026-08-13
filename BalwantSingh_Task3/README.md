@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning
+# Task 3 - Car Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 
