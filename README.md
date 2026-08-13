@@ -6,7 +6,7 @@ offers 5 project tasks, of which interns are required to complete a
 minimum of 3 — this repository documents the tasks I have chosen and 
 completed.
 
-## 👨‍💻 Intern
+## 👤 Intern
 **Balwant Singh**
 B.Tech - Computer Science (AIML Specialization)
 
@@ -14,9 +14,9 @@ B.Tech - Computer Science (AIML Specialization)
 
 | Task | Title | Description | Folder |
 |------|-------|-------------|--------|
-| Task 2 | Unemployment Analysis with Python | Exploratory data analysis on unemployment data in India, uncovering regional and time-based trends, including the impact of COVID-19. | [DataScience-Task2-UnemploymentAnalysis](./BalwantSingh_Task2) |
-| Task 3 | Car Price Prediction with Machine Learning | Regression models to predict used car selling prices based on features like brand, age, mileage, fuel type, and transmission. | [DataScience-Task3-CarPricePrediction](./BalwantSingh_Task3) |
-| Task 5 | Sales Prediction Using Python | Regression models to predict product sales based on advertising expenditure across TV, Radio, and Newspaper channels. | [DataScience-Task5-SalesPrediction](./BalwantSingh_Task5) |
+| Task 2 | Unemployment Analysis with Python | Exploratory data analysis on unemployment data in India, uncovering regional and time-based trends, including the impact of COVID-19. | [DataScience-Task2-UnemploymentAnalysis](./DataScience-Task2-UnemploymentAnalysis) |
+| Task 3 | Car Price Prediction with Machine Learning | Regression models to predict used car selling prices based on features like brand, age, mileage, fuel type, and transmission. | [DataScience-Task3-CarPricePrediction](./DataScience-Task3-CarPricePrediction) |
+| Task 5 | Sales Prediction Using Python | Regression models to predict product sales based on advertising expenditure across TV, Radio, and Newspaper channels. | [DataScience-Task5-SalesPrediction](./DataScience-Task5-SalesPrediction) |
 
 ## 🛠️ Tech Stack (across all tasks)
 - Python
@@ -26,17 +26,17 @@ B.Tech - Computer Science (AIML Specialization)
 - Jupyter Notebook
 
 ## 📁 Repository Structure
-OIBSIP/
+- OIBSIP/
 ├── README.md
-├── BalwantSingh_Task2/
+├── DataScience-Task2-UnemploymentAnalysis/
 │ ├── BalwantSingh_Task2.ipynb
 │ ├── Unemployment_in_india.csv
 │ └── README.md
-├── BalwantSingh_Task3/
+├── DataScience-Task3-CarPricePrediction/
 │ ├── BalwantSingh_Task3.ipynb
 │ ├── Car details v3.csv
 │ └── README.md
-└── BalwantSingh_Task5/
+└── DataScience-Task5-SalesPrediction/
 ├── BalwantSingh_Task5.ipynb
 ├── Advertising_data.csv
 └── README.md
