@@ -14,9 +14,9 @@ B.Tech - Computer Science (AIML Specialization)
 
 | Task | Title | Description | Folder |
 |------|-------|-------------|--------|
-| Task 2 | Unemployment Analysis with Python | Exploratory data analysis on unemployment data in India, uncovering regional and time-based trends, including the impact of COVID-19. | [BalwantSingh_Task2](./BalwantSingh_Task2) |
-| Task 3 | Car Price Prediction with Machine Learning | Regression models to predict used car selling prices based on features like brand, age, mileage, fuel type, and transmission. | [BalwantSingh_Task3](./BalwantSingh_Task3) |
-| Task 5 | Sales Prediction Using Python | Regression models to predict product sales based on advertising expenditure across TV, Radio, and Newspaper channels. | [BalwantSingh_Task5](./BalwantSingh_Task5) |
+| Task 2 | Unemployment Analysis with Python | Exploratory data analysis on unemployment data in India, uncovering regional and time-based trends, including the impact of COVID-19. | [DataScience-Task2-UnemploymentAnalysis](./BalwantSingh_Task2) |
+| Task 3 | Car Price Prediction with Machine Learning | Regression models to predict used car selling prices based on features like brand, age, mileage, fuel type, and transmission. | [DataScience-Task3-CarPricePrediction](./BalwantSingh_Task3) |
+| Task 5 | Sales Prediction Using Python | Regression models to predict product sales based on advertising expenditure across TV, Radio, and Newspaper channels. | [DataScience-Task5-SalesPrediction](./BalwantSingh_Task5) |
 
 ## 🛠️ Tech Stack (across all tasks)
 - Python
